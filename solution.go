@@ -1,6 +1,8 @@
 package square
 
-import "math"
+import (
+	"math"
+)
 
 type intCustomType int
 
